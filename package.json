@@ -1,9 +1,9 @@
 {
-  "name": "com.rastleks.utilities",
-  "version": "1.0.4",
-  "displayName": "Utilities by rastleks",
+  "name": "com.example.demo",
+  "version": "2.0.0",
+  "displayName": "Demo for tutorial",
   "description": 
-    "Usefool custom utilities written  to save  time  in different projects.",
+    "test package",
     "unity": "2019.3",
   "unityRelease": "0f6",
   "keywords": [
